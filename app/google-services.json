@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "369603570586",
+    "firebase_url": "https://gestionurbana-b353b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "gestionurbana-b353b",
+    "storage_bucket": "gestionurbana-b353b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369603570586:android:ca23c7f963a3ff0517a823",
+        "android_client_info": {
+          "package_name": "com.edu.ucam.gestionurbanaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHSuzPb48xQ_A4HnZ9PINBmBjbNy4Or1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
